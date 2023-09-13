@@ -1,4 +1,0 @@
-- [ ] Navbar
-- [ ] Rotas da Navbar
-- [ ] Tela de Login
-- [ ] Redux para salvar o state do login
