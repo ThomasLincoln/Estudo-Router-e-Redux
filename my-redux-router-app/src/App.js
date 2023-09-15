@@ -1,11 +1,11 @@
 import LoginLink from "./components/LoginLink";
+import PageWrapper from "./style/home";
 
 function App() {
   return (
-    <div className="App">
-      <p>Hello World!</p>
-      <LoginLink />
-    </div>
+    <PageWrapper>
+        <LoginLink />
+    </PageWrapper>
   );
 }
 
