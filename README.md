@@ -1,7 +1,8 @@
 # Estudo-Router-e-Redux
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/ThomasLincoln/Estudo-Router-e-Redux) 
-![GitHub language count](https://img.shields.io/github/languages/count/ThomasLincoln/nome_do_prEstudo-Router-e-Reduxojeto)
+![GitHub language count](https://img.shields.io/github/languages/count/ThomasLincoln/Estudo-Router-e-Redux
+)
 ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/ThomasLincoln/Estudo-Router-e-Redux)
 ![Static Badge](https://img.shields.io/badge/for-study-brightgreen?color=purple)
 ![GitHub top language](https://img.shields.io/github/languages/top/ThomasLincoln/Estudo-Router-e-Redux)
